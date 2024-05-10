@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(16, 90, 16);
+}
+h1{
+    color: beige;
+}
+p{
+    background-color:darkgray;
+    color:white;
+    font-size: 18px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    padding: 5px;
+    
+}
+#quote{
+    background-color:rgb(50, 50, 50);
+    color:white;
+    font-style: italic;
+    font-family: idk;
+}
